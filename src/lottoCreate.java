@@ -1,5 +1,3 @@
-package lotto;
-
 import java.util.Random;
 
 public class lottoCreate {
